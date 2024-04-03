@@ -1,1 +1,2 @@
-print("hello" * 100)
+print("hello " * 10)
+print("changed")
